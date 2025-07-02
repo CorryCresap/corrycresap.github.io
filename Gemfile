@@ -4,3 +4,4 @@ gem "jekyll-assets", group: :jekyll_plugins
 gem "jekyll-paginate", group: :jekyll_plugins
 gem "autoprefixer-rails"
 gem "sprockets", "~> 3.7"
+gem 'jekyll-theme-hacker', '~> 0.2.0'
