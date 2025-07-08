@@ -15,4 +15,3 @@ plugins:
 paginate: 5
 paginate_path: "/blog/page/:num/"
 future: true
-remote_theme: pages-themes/leap-day@v0.2.0
